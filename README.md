@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![YouTube Video](https://img.youtube.com/vi/U1-tNfr9P8k/0.jpg)](https://www.youtube.com/watch?v=U1-tNfr9P8k)
+
 
 
 - 🔭 I’m currently working on ...
